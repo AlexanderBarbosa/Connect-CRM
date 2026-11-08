@@ -1,0 +1,8 @@
+{
+  "name": "Connect CRM - WhatsApp Multi-Atendimento",
+  "description": "Sistema completo de multi-atendimento WhatsApp e CRM (Connect CRM), com priorização automática de conversas no topo, gestão de equipes e console administrativo completo do servidor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
